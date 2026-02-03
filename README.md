@@ -1,5 +1,11 @@
 # Sampling Assignment – Credit Card Fraud Detection
 
+## Author
+Divyanshi  
+Roll No: 102303501
+
+---
+
 ## Objective
 The objective of this assignment is to study the importance of sampling techniques while working with imbalanced datasets and to analyze how different sampling strategies affect the performance of various machine learning models.
 
@@ -71,7 +77,3 @@ This study demonstrates that the choice of sampling technique plays a crucial ro
 3. Run all cells sequentially.
 4. The final accuracy comparison table will be generated automatically.
 
----
-
-## Author
-Divyanshi
